@@ -1,10 +1,12 @@
-<h1 align="center">Hey, I’m Rayyan </h1>
+<h1 align="center">Hey, I’m Rayyan 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;size=21&amp;pause=1250&amp;color=2F81F7&amp;center=true&amp;vCenter=true&amp;width=430&amp;height=44&amp;lines=Small+language+models;Tool+calling+%26+memory;Prompt+injection+defense" alt="Small language models, tool calling and memory, and prompt injection defense" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;size=21&amp;pause=1250&amp;color=2F81F7&amp;center=true&amp;vCenter=true&amp;width=470&amp;height=44&amp;lines=Small+language+models;Tool+calling+%26+memory;Prompt+injection+defense" alt="Small language models, tool calling and memory, and prompt injection defense" />
 </p>
 
 I’m a **Computer Science and Quantitative Economics** student at **Dickinson College** (’29). At the [Deep Network Understanding Lab](https://dnulab.org/), I study how language models use tools and what happens when those tools encounter untrusted text. I also tutor Python and quantitative reasoning at Dickinson.
+
+I’m also interested in fintech and how payment systems work.
 
 ### Research
 
@@ -18,7 +20,7 @@ I’m a **Computer Science and Quantitative Economics** student at **Dickinson C
 
 ### Tools I use
 
-<img src="https://skillicons.dev/icons?i=py,pytorch,java,ts,react,nodejs,git&amp;perline=7" alt="Python, PyTorch, Java, TypeScript, React, Node.js, and Git" />
+<img src="https://skillicons.dev/icons?i=py,pytorch,flask,java,ts,react,nodejs,git&amp;perline=8" alt="Python, PyTorch, Flask, Java, TypeScript, React, Node.js, and Git" />
 
 ### GitHub activity
 
@@ -29,27 +31,4 @@ I’m a **Computer Science and Quantitative Economics** student at **Dickinson C
   </picture>
 </p>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/R1Kexpress/R1Kexpress/profile-assets/snake-dark.svg" />
-    <img src="https://raw.githubusercontent.com/R1Kexpress/R1Kexpress/profile-assets/snake-light.svg" alt="An animated snake eating squares on Rayyan’s GitHub contribution grid" width="100%" />
-  </picture>
-</p>
-
-<p align="center"><a href="https://www.linkedin.com/in/rayyan-madraswala-56630a376/">LinkedIn</a></p>
-
-
-<!--
-**R1Kexpress/R1Kexpress** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center"><a href="https://www.linkedin.com/in/rayyan-madraswala-56630a376/">LinkedIn</a> · <a href="mailto:rayyanfaizm@gmail.com">Email</a></p>
