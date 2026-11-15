@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I’m Rayyan 👋</h1>
+<h1 align="center">Hey, I’m Rayyan</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;size=21&amp;pause=1250&amp;color=2F81F7&amp;center=true&amp;vCenter=true&amp;width=470&amp;height=44&amp;lines=Small+language+models;Tool+calling+%26+memory;Prompt+injection+defense" alt="Small language models, tool calling and memory, and prompt injection defense" />
