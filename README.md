@@ -15,7 +15,9 @@ I’m also interested in fintech and how payment systems work.
 
 ### Hackathon projects
 
-- **[Aman](https://github.com/R1Kexpress/HackPSU)** · An offline Progressive web app and multilingual Telegram bot for pediatric screening in low-connectivity settings. Gemini extracts facts from voice input, and a rules engine determines the triage category. [HackPSU demo](https://devpost.com/software/aman-asuz3e)
+*Both built with [Biruk Kebede](https://github.com/Kebedeb)*
+ 
+- **[Aman](https://github.com/R1Kexpress/HackPSU)** · An offline Progressive Web App and multilingual Telegram bot for pediatric screening in low-connectivity settings. Gemini extracts facts from voice input, and a rules engine determines the triage category. [HackPSU demo](https://devpost.com/software/aman-asuz3e)
 - **[Resume Roaster](https://github.com/R1Kexpress/resume-roaster)** · A Flask app that reads résumé PDFs and turns Gemini critiques into spoken roasts with ElevenLabs. Won **Best Use of AI** at Dickinson’s Red Devil Hacks.
 
 ### Tools I use
