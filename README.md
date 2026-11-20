@@ -11,12 +11,12 @@ I’m also interested in fintech and how payment systems work.
 ### Research
 
 - **[Prompt injection in Minecraft](https://github.com/R1Kexpress/mc-tool)** · Built an LLM agent and evaluated indirect prompt injection across **180 episodes**. A tool lock prevented diamond loss in **20/20 explicit-override trials**. With the lock, control-task completion fell from **20/20 to 14/20**.
-- **[DistilGPT-2 tool calling and memory](https://dnulab.org/student-reports/spring2026/madraswala.pdf)** · Fine-tuned DistilGPT-2 to choose between writing a calculator call and retrieving a cached result. It chose the correct action type on all 420 test cases; calculator-call exact match was 93.8% on familiar phrasing vs 53.8% on unseen.**.
+- **[DistilGPT-2 tool calling and memory](https://dnulab.org/student-reports/spring2026/madraswala.pdf)** · Fine-tuned DistilGPT-2 to choose between writing a calculator call and retrieving a cached result. It chose the correct action type on all 420 test cases; calculator-call exact match was 93.8% on familiar phrasing vs 53.8% on unseen.**
 
 ### Hackathon projects
 
-- **[Aman](https://github.com/R1Kexpress/HackPSU)** · Offline web app and multilingual Telegram bot for pediatric screening in low-connectivity settings. Gemini extracts facts from voice input, and a rules engine determines the triage category. [HackPSU demo](https://devpost.com/software/aman-asuz3e)
-- **[Resume Roaster](https://github.com/R1Kexpress/resume-roaster)** · A Flask app that reads résumé PDFs and turns Gemini critiques into spoken roasts with ElevenLabs. Won **Best Use of AI** at Dickinson’s Red Devil Hacks.
+- **[Aman](https://github.com/R1Kexpress/HackPSU)** · Co-built an offline Progressive web app and multilingual Telegram bot for pediatric screening in low-connectivity settings. Gemini extracts facts from voice input, and a rules engine determines the triage category. [HackPSU demo](https://devpost.com/software/aman-asuz3e)
+- **[Resume Roaster](https://github.com/R1Kexpress/resume-roaster)** · C-built a Flask app that reads résumé PDFs and turns Gemini critiques into spoken roasts with ElevenLabs. Won **Best Use of AI** at Dickinson’s Red Devil Hacks.
 
 ### Tools I use
 
